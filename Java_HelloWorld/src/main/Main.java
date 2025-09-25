@@ -8,7 +8,7 @@ public class Main {
 		
 		System.out.println("5+3=" + 8);
 		
-		
+		System.out.println(6+4);
 
 	}
 
